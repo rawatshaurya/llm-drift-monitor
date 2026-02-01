@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local data
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports (keep folder, not files)
+reports/*.json
+reports/*.csv

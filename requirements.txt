@@ -1,0 +1,7 @@
+ollama
+sentence-transformers
+numpy
+pandas
+scipy
+streamlit
+sqlite-utils

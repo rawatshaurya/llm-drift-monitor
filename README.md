@@ -43,7 +43,7 @@ This project goes beyond accuracy to detect **semantic drift**, **verbosity drif
 ---
 
 ## 📂 Repository Structure
-
+```
 llm-drift-monitor/
 ├─ dashboard/
 │ └─ app.py
@@ -73,8 +73,7 @@ llm-drift-monitor/
 ├─ requirements.txt
 └─ README.md
 
-yaml
-Copy code
+```
 
 ---
 

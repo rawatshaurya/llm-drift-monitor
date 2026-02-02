@@ -112,7 +112,7 @@ This performs a clean A/B test:
 -Same sample size
 -Only model changes
 
-
+```
 $env:EXPERIMENT_ID="model_switch_equal_samples"
 
 $env:OLLAMA_MODEL="llama3:8b"
@@ -123,6 +123,8 @@ $env:OLLAMA_MODEL="qwen2.5:7b"
 
 python -m scripts.check_counts
 python -m scripts.run_model_compare
+
+```
 Expected outcome:
 
 ✅ Mild semantic drift

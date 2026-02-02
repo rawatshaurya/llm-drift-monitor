@@ -103,6 +103,8 @@ python -m scripts.run_daily_monitor
 ### 6️⃣ Launch Streamlit dashboard
 
 streamlit run dashboard/app.py
+
+```
 🧪 Controlled Model Switch Experiment (Equal Samples)
 This performs a clean A/B test:
 
